@@ -1,6 +1,6 @@
 name: FlutterFire
 repository: https://github.com/firebase/flutterfire
-
+//
 packages:
   - packages/*
   - packages/*/*
